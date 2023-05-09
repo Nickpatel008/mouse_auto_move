@@ -10,10 +10,14 @@ Before running this program, you must have Python 3 installed on your computer. 
 
 # Installation
 1.
+```
 Clone or download the project from GitHub.
+```
 2.
 Install the required packages by running the following command in your terminal:
+```sh
 pip install -r requirements.txt
+```
 Usage
 To run the program, navigate to the project directory in your terminal and run the following command:
 python auto_mouse_mover.py
