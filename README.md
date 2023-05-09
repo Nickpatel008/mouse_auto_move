@@ -20,4 +20,7 @@ pip install -r requirements.txt
 
 To run the program, navigate to the project directory in your terminal and run the following command:
 python auto_mouse_mover.py
-The program will start moving the mouse in small increments at random intervals, simulating user activity. To stop the program, simply press ```sh Ctrl + C```.
+The program will start moving the mouse in small increments at random intervals, simulating user activity. To stop the program, simply press 
+```sh 
+Ctrl + C
+```.
