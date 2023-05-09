@@ -1,7 +1,7 @@
 # mouse_auto_move
 This is python program for automatically move mouse coursor.
 
-<div align="center">
+<div align="center" style="max-width: 10%;">
     <img src="https://www.pngitem.com/pimgs/m/201-2012093_linux-logo-png-linux-logo-transparent-background-png.png">
 </div>
 
