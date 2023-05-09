@@ -2,7 +2,7 @@
 This is python program for automatically move mouse coursor.
 
 <div align="center">
-    <img src="https://www.pngitem.com/pimgs/m/201-2012093_linux-logo-png-linux-logo-transparent-background-png.png" style="max-width: 10%;>
+    <img src="https://www.pngitem.com/pimgs/m/201-2012093_linux-logo-png-linux-logo-transparent-background-png.png" style="width: 80px;">
 </div>
 
 [auto_move.webm](https://user-images.githubusercontent.com/54436939/237026929-416941c5-b6f5-473d-9cee-6c70d14ac65b.webm)
